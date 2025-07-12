@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently learning  in Bahir dar university 
+I am FullStack Developer
 
 
 ## 🌐 Socials:
